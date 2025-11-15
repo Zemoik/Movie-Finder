@@ -63,7 +63,7 @@ JavaScript (ES6+)
 
 📦 Installation
 1️⃣ Clone the repo
-git clone https://github.com/your-username/cinematch.git
+git clone https://github.com/Zemoik/cinematch.git
 cd cinematch
 
 2️⃣ Install dependencies

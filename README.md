@@ -16,7 +16,7 @@ React Native · JavaScript · TMDb REST API · React Navigation
 npm install
 npx expo start
 ```
-Get a free TMDb API key at [themoviedb.org](https://www.themoviedb.org/settings/api) and add it to a `.env` file.
+Get a free TMDb API token at [themoviedb.org](https://www.themoviedb.org/settings/api) and add it to a App.js file.
 
 ## About
 Built as the capstone project for the **RUMAD Frontend Fellowship** at Rutgers University.

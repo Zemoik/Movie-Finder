@@ -20,3 +20,6 @@ Get a free TMDb API key at [themoviedb.org](https://www.themoviedb.org/settings/
 
 ## About
 Built as the capstone project for the **RUMAD Frontend Fellowship** at Rutgers University.
+
+
+https://github.com/user-attachments/assets/c45f9a13-5dc2-4f86-9080-0406c5b11cab
